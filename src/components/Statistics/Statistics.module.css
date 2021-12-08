@@ -1,0 +1,11 @@
+.statistics {
+  box-shadow: 1px 0px 0px 2px rgba(199, 196, 196, 0.727);
+  max-width: 600px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+.wrap {
+  display: flex;
+  justify-content: center;
+}
